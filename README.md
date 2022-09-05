@@ -1,6 +1,6 @@
 # minimal web application deployment descriptor (web.xml) for a servlet that sorts integers using sort\_integer\_with_java deployable through a tomcat manager.
 
-Just a web.xml file to deploy the servlet  to call sort\_integer\_with_java and return the results
+Just a web.xml file to deploy the servlet in a webapp server to call sort\_integer\_with_java and use it through a web browser.
 
 I test it locally with : http://localhost:8080/sort_integer_with_java_and_servlet_and_webxml/sortIntegers?intsToSort=6,8,3
 
