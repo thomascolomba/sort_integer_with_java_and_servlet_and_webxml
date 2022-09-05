@@ -2,7 +2,7 @@
 
 Just a web.xml file to deploy the servlet  to call sort\_integer\_with_java and return the results
 
-I test it locally with : http://localhost:8080/sort\_integer\_with\_java\_and\_servlet\_and_webxml/sortIntegers?intsToSort=6,8,3
+I test it locally with : http://localhost:8080/sort_integer_with_java_and_servlet_and_webxml/sortIntegers?intsToSort=6,8,3
 
 -- pom.xml <br/>
 dependency : sort\_integer\_with_java<br/>
