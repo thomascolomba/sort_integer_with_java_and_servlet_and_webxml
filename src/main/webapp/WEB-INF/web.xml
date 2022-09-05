@@ -1,0 +1,14 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <servlet>
+    <servlet-name>SortIntegers</servlet-name>
+    <servlet-class>sort_integer_with_java_and_servlet.SortIntegersServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>SortIntegers</servlet-name>
+    <url-pattern>/sortIntegers</url-pattern>
+</servlet-mapping>
+</web-app>
